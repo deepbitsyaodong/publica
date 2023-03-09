@@ -1,0 +1,17 @@
+{
+  "name": "publica",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/deepbitsyaodong/publica.git",
+  "author": "Yaodong Li <mail@liyaodong.com>",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.8.3",
+    "express": "^4.18.2",
+    "koa": "^2.14.1",
+    "nextjs": "^0.0.3",
+    "react": "^18.2.0",
+    "typescript": "^4.9.5",
+    "vuejs": "^3.0.1"
+  }
+}
